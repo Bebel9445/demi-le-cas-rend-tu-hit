@@ -20,11 +20,9 @@ $ make fclean
 
 $ make
 
-$ cd bin/game
+$ cd bin
 
 $ ./2048
-
-$ cd ..
 
 $ ./demi_le_cas             // répéter cette commande pour chaque partie à lancer
 ```
